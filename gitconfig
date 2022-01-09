@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = sidney.o@gmail.com
+	name = Sidney Ouarzazi
